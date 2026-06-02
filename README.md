@@ -35,7 +35,7 @@ cd Image-Processing-Using-ScikitImage
 Install dependencies:
 
 ```bash
-pip install numpy matplotlib scikit-image
+pip install -r requirements.txt
 ```
 
 ## Project Structure
