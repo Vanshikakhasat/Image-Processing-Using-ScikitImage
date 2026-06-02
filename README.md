@@ -47,7 +47,7 @@ image-processing-scikit-image/
 │   ├── parrot_rosellaMacaws_couple.jpg
 │   └── flower_dahlia_orange.jpg
 │
-├── image_processing.py
+├── image_processing.ipynb
 ├── requirements.txt
 └── README.md
 ```
