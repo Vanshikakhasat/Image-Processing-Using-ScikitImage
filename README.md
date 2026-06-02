@@ -28,7 +28,7 @@ A Python project demonstrating fundamental image processing techniques using **N
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/image-processing-scikit-image.git
+git clone https:/Vanshikakhasat/github.com//image-processing-scikit-image.git
 cd image-processing-scikit-image
 ```
 
